@@ -1,0 +1,5 @@
+firefox
+vlc
+neovim
+htop
+fastfetch
